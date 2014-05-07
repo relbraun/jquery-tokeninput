@@ -21,6 +21,7 @@
     contentType: "json",
     excludeCurrent: false,
     excludeCurrentParameter: "x",
+    additionalData: [],
 
     // Prepopulation settings
     prePopulate: null,
